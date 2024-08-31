@@ -18,9 +18,9 @@ The API Gateway plays a crucial role in managing communication between clients a
 [Quiz Craft.postman_collection.json](https://github.com/user-attachments/files/16823586/Quiz.Craft.postman_collection.json)
 
 ## Other Service repository
-- Quiz Service: 
-- Service Registry: 
-- Question Service: 
+- Service Registry : https://github.com/shakib522/Service-Registry
+- Question Service : https://github.com/shakib522/Question-Service
+- Quiz Service : https://github.com/shakib522/Question-Service
 ## Prerequisites
 
 - Java 17 or later
